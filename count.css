@@ -36,3 +36,14 @@ body{
     top: 50%;
     transform: translateY(-80%);
 }
+
+
+@media (max-width: 600px) 
+{
+    .countfont {
+        font-size: 2em;
+    }
+    .countDown{
+        font-size: 3em;
+    }
+}
